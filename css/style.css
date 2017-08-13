@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 18, 2017, 1:14:44 PM
+    Author     : abc
+*/
+
+body{
+    background-color: rgb(17,43,51);
+    color: rgb(109,172,188);
+}
+
+ /* unvisited link */
+a:link, a:visited {
+    color: rgb(109,172,188);
+}
+
+/* mouse over link */
+a:hover {
+   font-style: italic;
+   text-decoration: none;
+}
+
+.header{
+    margin-top:3%;
+}
+
+.post{
+    margin-top:5%;
+}
+
+.footer{
+    margin-top:5%;
+}
+
+.footerLinks a{
+    margin-left:5%;
+}
+
+.logout{
+	
+}
